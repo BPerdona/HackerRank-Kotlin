@@ -5,7 +5,7 @@ import kotlin.ranges.*
 import kotlin.text.*
 
 /**
- *  Challange link: https://www.hackerrank.com/challenges/diagonal-difference/problem
+ *  Challenge link: https://www.hackerrank.com/challenges/diagonal-difference/problem
  * **/
 
 fun diagonalDifference(arr: Array<Array<Int>>): Int {
