@@ -3,6 +3,10 @@ import kotlin.collections.*
 import kotlin.io.*
 import kotlin.text.*
 
+
+/**
+ * Challenge link: https://www.hackerrank.com/challenges/compare-the-triplets/problem
+ * */
 fun compareTriplets(a: Array<Int>, b: Array<Int>): Array<Int> {
     var scoreA = 0
     var scoreB = 0

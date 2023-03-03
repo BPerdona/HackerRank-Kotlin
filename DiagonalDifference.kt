@@ -4,6 +4,10 @@ import kotlin.math.absoluteValue
 import kotlin.ranges.*
 import kotlin.text.*
 
+/**
+ *  Challange link: https://www.hackerrank.com/challenges/diagonal-difference/problem
+ * **/
+
 fun diagonalDifference(arr: Array<Array<Int>>): Int {
     val diagonalA = mutableListOf<Int>()
     val diagonalB = mutableListOf<Int>()
