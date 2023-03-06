@@ -1,4 +1,4 @@
-
+package medium
 import java.lang.IndexOutOfBoundsException
 import kotlin.collections.*
 import kotlin.io.*
@@ -9,7 +9,7 @@ import kotlin.text.*
 
 /***
  *
- *Challenge link -> https://www.hackerrank.com/challenges/encryption/problem
+ *Challenge link -> https://www.hackerrank.com/challenges/medium.encryption/problem
  */
 
 fun encryption(s: String): String {

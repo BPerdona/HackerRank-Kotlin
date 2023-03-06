@@ -1,4 +1,4 @@
-
+package easy
 import kotlin.collections.*
 import kotlin.io.*
 import kotlin.text.*
